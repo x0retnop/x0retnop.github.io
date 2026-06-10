@@ -1,0 +1,14 @@
+.DS_Store
+*.ps1
+Thumbs.db
+*.log
+.vscode/
+.idea/
+node_modules/
+Gemfile.lock
+_main/.jekyll-cache/
+_main/_site/
+_main/.sass-cache/
+*.tmp
+*.swp
+*~
