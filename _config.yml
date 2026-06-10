@@ -1,8 +1,7 @@
-title: "x0retnop"
+title: "---"
 description: "Персональный блокнот с наблюдениями и опытом."
 url: "https://x0retnop.github.io"
 theme: minima
-author:
-  name: "x0retnop"
-  email: ""
+author:x0retnop
+  name: "x0"
 show_excerpts: true
